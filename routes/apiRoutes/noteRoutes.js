@@ -4,9 +4,9 @@ const { notes } =
 require('../../db/db.json');
 
 const { noteCreateNewNote, noteDeleteNote } =
-require('../../lib/notesSection');
+require('../../lib/notesFunctions');
 
-router.get('/notes', (req, res) => {
+router.get('/notes', (_req, res) => {
     let saved = notes;
     res.json(saved);
 })

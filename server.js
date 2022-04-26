@@ -1,10 +1,11 @@
-const fs = require('fs');
-const path = require('path');
-const database = require("./db/db.json");
+const app = express();
+
+const PORT = process.env.PORT || 3001;
 const express = require('express');
 
-var app = express();
-var PORT = process.env.PORT || 3001;
+const fs = require('fs');
+const path = require('path');
+// const database = require("./db/db.json");
 
 const apiRoutes = require('./routes/apiRoutes');
 const htmlRoutes = require('./routes/htmlRoutes');
