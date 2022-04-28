@@ -15,4 +15,5 @@ https://github.com/PeterwMcClelland/Note-Taker
 
 ## Contact
 Email: Peterwmcclelland@gmail.com
+
 Linkedin: https://www.linkedin.com/in/peter-mcclelland-065450230/
