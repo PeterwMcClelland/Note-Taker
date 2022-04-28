@@ -5,7 +5,6 @@ decription. These will be saved and you will be able to go back and view them.
 
 ## Screen Shots
 [![Screen-Shot-2022-04-27-at-10-31-01-PM.png](https://i.postimg.cc/qMsFc3Z8/Screen-Shot-2022-04-27-at-10-31-01-PM.png)](https://postimg.cc/vcmXbcyB)
-
 [![Screen-Shot-2022-04-27-at-10-31-24-PM.png](https://i.postimg.cc/rwW5R1nk/Screen-Shot-2022-04-27-at-10-31-24-PM.png)](https://postimg.cc/bZyZKtfC)
 
 ## Links to project
